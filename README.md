@@ -1,9 +1,15 @@
 # Digital-Signal-Processing--FIR-HIGH-PASS-FILTER-DESIGN
+
 ## AIM:
+
 To generate design of High pass FIR digital filter using Window.
+
 ## Software Required:
+
 MAT LAB R2012.
+
 ## Algorithm:
+
 Step 1: Open MATLAB and Write the program.
 
 Step 2: Read the values of cut off frequency wc.
@@ -43,6 +49,11 @@ plot(w/pi,abs(h),'blue');
 ```
 ## OUTPUT:
 
+Design of High pass FIR digital filters using Bartlett Window
+𝐻(𝑒𝑗𝜔)=0 for |𝜔|<2𝜋5<br>
+𝐻(𝑒𝑗𝜔)=1 for 2𝜋5≤|𝜔|≤𝜋 <br>using Bartlett Window, M=17
 <img width="847" height="744" alt="Screenshot 2025-10-23 130408" src="https://github.com/user-attachments/assets/27f25a4f-e956-4590-8347-832162057425" />
 
 ## RESULT:
+
+Thus the design of High pass FIR digital filter using Bartlett waveforms were plotted and output was verified.
