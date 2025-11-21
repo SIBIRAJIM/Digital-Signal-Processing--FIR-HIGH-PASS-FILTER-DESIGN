@@ -55,5 +55,6 @@ Design of High pass FIR digital filters using Bartlett Window
 <img width="847" height="744" alt="Screenshot 2025-10-23 130408" src="https://github.com/user-attachments/assets/27f25a4f-e956-4590-8347-832162057425" />
 
 ## RESULT:
+<img width="720" height="216" alt="image" src="https://github.com/user-attachments/assets/0b4ccbd2-0559-4e2d-af0f-f5288d1ef7b5" />
 
-Thus the design of High pass FIR digital filter using Bartlett waveforms were plotted and output was verified.
+
